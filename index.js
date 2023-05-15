@@ -3,7 +3,7 @@
 
 
 // DECLARACIÓN DEL MENSAJE
-var mensajeDeInicio = "GRACIAS POR VISITARNOS IBFK";
+var mensajeDeInicio = "BIENVENIDO, UN SALUDAZO COMPADRE [emotiza]";
 
 
 
